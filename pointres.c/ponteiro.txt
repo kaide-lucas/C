@@ -1,2 +1,0 @@
-Pontieros:
-Um Ponteiro é uma variavel que armazena o endereço de memória de outra variavel.
